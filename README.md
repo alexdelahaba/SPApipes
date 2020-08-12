@@ -24,4 +24,4 @@ To be able to use the application you have to clone the repository to local and 
 ![alt text](https://github.com/alexdelahaba/SPApipes/blob/master/src/assets/screenshots/3.PNG?raw=true)
 ![alt text](https://github.com/alexdelahaba/SPApipes/blob/master/src/assets/screenshots/4.PNG?raw=true)
 ![alt text](https://github.com/alexdelahaba/SPApipes/blob/master/src/assets/screenshots/5.PNG?raw=true)
-![alt text](https://github.com/alexdelahaba/SPApipes/blob/master/src/assets/screenshots/6.PNG?raw=true)
+
